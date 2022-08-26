@@ -1,0 +1,164 @@
+
+
+.megustas{
+    font-size: 13px;
+}
+
+.container{
+
+    margin: auto;
+    position: center;
+    display: flex;
+    flex-direction: column;
+    width: 377px;
+    height: 575px;
+    box-shadow:#5d5d5d 0px 0px 15px;
+    border-radius: 20px ;
+    margin-top: 50px;
+    font-family: Helvetica, Sans-Serif;
+
+}
+
+.fotodeperfil{
+    
+    position: relative;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.usuario{
+    position: relative;
+    font-size: 16px; 
+    margin-left: 10px;  
+}
+
+.lugar{
+    position: relative;
+    font-size: 13px; 
+    margin-left: 70px; 
+    margin-top: 0px;  
+    color: rgb(154, 154, 154);
+}
+
+.fotopost{
+    
+    position: relative;
+    width: 378px;
+    height: 350.54px;
+    margin-top: 0px;
+    
+}
+
+.iconoinformacion{
+    
+    position: relative;
+    width: 26px;
+    height: 6px;
+    margin: 0;
+    margin-top: 25px;
+}
+
+.iconoscroll{
+    
+    position: relative;
+    width: 26px;
+    height: 6px;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.iconocorazon{
+    
+    position: relative;
+    width: 22px;
+    height: 27px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.iconocomentario{
+    
+    position: relative;
+    width: 22px;
+    height: 27px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.iconoenviar{
+    
+    position: relative;
+    width: 22px;
+    height: 27px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.iconoguardar{
+    
+    position: relative;
+    width: 22px;
+    height: 27px;
+    margin-left: 250px;
+    margin-top: 5px;
+}
+
+.megustas{
+    position: relative;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+
+.description{
+    font-size: 16px;
+    position: relative;
+    margin-left: 10px;
+    margin-top: 0px;
+    }
+
+.infousuario{
+    font-size: 16px;
+    position: relative;
+    }
+
+.usuarioinfo{
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+    }
+
+
+.comentarios{
+    font-size: 16px;
+    position: relative;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.fab-icons{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+
+.masinformacion{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    margin-right:10px;
+}
